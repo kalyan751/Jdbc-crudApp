@@ -1,6 +1,8 @@
 // testing the changes that i did from eclipse
 //testing again
 
+//testing git branch by making changes in feature2 branch
+
 package com.pwskills.utility;
 
 import java.io.FileInputStream;
