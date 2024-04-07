@@ -9,7 +9,9 @@ import java.sql.*;
 import java.util.Properties;
 
 public class JDBCUtil {
-	
+	// making the constructor private because I dont want user to create the object
+	// of the class DBUtil
+	// because creation of a object is a costly event
 	private JDBCUtil() {
 
 	}
