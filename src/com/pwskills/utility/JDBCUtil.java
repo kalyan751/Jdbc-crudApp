@@ -1,7 +1,7 @@
 // testing the changes that i did from eclipse
 //testing again
 
-//testing git branch by making changes in feature2 branch
+//testing git branch by making changes in feature2 branch(new feature button)
 
 package com.pwskills.utility;
 
